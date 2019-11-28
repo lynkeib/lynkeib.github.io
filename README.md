@@ -28,6 +28,6 @@ Hi there! Welcome! I am Chengyin, a MSBA student studying at USC and will gradua
 
 ## Contact
 
-LinkedIn: [Chengyin Liu](www.linkedin.com/in/chengyinliu458)</br>
+LinkedIn: [Chengyin Liu](www.linkedin.com/in/chengyinliu458)<\br>
 Email: [chengyin.liu.2019@marshall.usc.edu](chengyin.liu.2019@marshall.usc.edu)
 
