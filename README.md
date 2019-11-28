@@ -22,6 +22,9 @@ Hi there! Welcome! I am Chengyin, a MSBA student studying at USC and will gradua
 2. [Personal Assistance](https://github.com/lynkeib/WeChatProjects) 
 3. [Search Engine](https://github.com/lynkeib/SearchEngine) (Working on it)
 
+### Team Projects Website
+1. [CHV Analytic ](https://www.chvanalytics.com)
+
 ## Contact
 
 LinkedIn: [Chengyin Liu](www.linkedin.com/in/chengyinliu458)</br>
