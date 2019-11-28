@@ -13,8 +13,9 @@ Hi there! Welcome! I am Chengyin, a MSBA student studying at USC and will gradua
 ## Projects
 
 ### Data Projects
-1. [Credit Transaction Fraud Analytics Project](https://github.com/lynkeib/WebProjects/tree/master/Credit%20Card%20Fraud%20Detection)
-2. [Yelp Recommendation Systems](https://github.com/lynkeib/WebProjects/tree/master/Recommendation%20System)
+1. [Fraud Detection in the New York Property Dataset](https://github.com/lynkeib/WebProjects/tree/master/NY%20Property) 
+2. [Credit Transaction Fraud Analytics Project](https://github.com/lynkeib/WebProjects/tree/master/Credit%20Card%20Fraud%20Detection)
+3. [Yelp Recommendation Systems](https://github.com/lynkeib/WebProjects/tree/master/Recommendation%20System)
 3. [Forecasting System]() (Working on it)
 
 ### Development Projects
