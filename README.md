@@ -10,6 +10,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 Hi there! Welcome! I am Chengyin, a MSBA student studying at USC and will graduate in May 2020. I am really passionate about using my technical skills and my understanding of data to help the business improve its efficiency and profitability. I am also a big fan of programming, so in my spare time I would try to do some development projects that can be helpful to the friends around me. 
 
+## Projects
+
+### Data Projects</br>
+1. [Credit Transaction Fraud Analytics Project](https://github.com/lynkeib/WebProjects/tree/master/Credit%20Card%20Fraud%20Detection)
+2. [Yelp Recommendation Systems](https://github.com/lynkeib/WebProjects/tree/master/Recommendation%20System)
+
+### Development Projects
+
 ## Contact
 
 LinkedIn: [Chengyin Liu](www.linkedin.com/in/chengyinliu458)</br>
