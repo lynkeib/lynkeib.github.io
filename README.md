@@ -8,7 +8,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 ## About Me
 
-Hi there! Welcome! I am Chengyin, a MSBA student studying at USC and will graduate in May 2020. I am really passionate about using my technical skills and my understanding of data to help the business improve its efficiency and profitability. As big fan of programming as well, I also work on some development projects that can be helpful to the friends around me in my spare time. 
+Hi there! Welcome! I am Chengyin, a MSBA student studying at USC and will graduate in May 2020. I am really passionate about using my technical skills and my understanding of data to help the business improve its efficiency and profitability. As a big fan of programming as well, I also work on some development projects that can be helpful to the friends around me in my spare time. 
 
 ## About This Site
 
