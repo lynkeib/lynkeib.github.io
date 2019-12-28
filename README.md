@@ -20,8 +20,9 @@ Here I list some of the projects I worked on and the projects I am working on.
 1. [Fraud Detection in the New York Property Dataset](https://github.com/lynkeib/WebProjects/tree/master/NY%20Property) 
 2. [Credit Transaction Fraud Analytics Project](https://github.com/lynkeib/WebProjects/tree/master/Credit%20Card%20Fraud%20Detection)
 3. [Yelp Recommendation Systems](https://github.com/lynkeib/WebProjects/tree/master/Recommendation%20System)
-4. [Forecasting System](https://github.com/lynkeib/WebProjects/tree/master/Forecasting%20System) 
-5. [A/B Testing for Udacity Course](https://github.com/lynkeib/WebProjects/tree/master/AB%20Testing%20for%20Udacity%20Course)
+4. [Electric Loads Prediction Competition (Rank No.1)](https://github.com/lynkeib/WebProjects/tree/master/Time%20Series%20Competition)
+5. [Forecasting System](https://github.com/lynkeib/WebProjects/tree/master/Forecasting%20System) 
+6. [A/B Testing for Udacity Course](https://github.com/lynkeib/WebProjects/tree/master/AB%20Testing%20for%20Udacity%20Course)
 
 ### Development Projects
 1. [Blog Website](https://github.com/lynkeib/WebProjects/tree/master/MyBlog/blog)
