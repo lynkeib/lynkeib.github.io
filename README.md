@@ -32,7 +32,7 @@ Here I list some of the projects I worked on and the projects I am working on.
 1. [Blog Website](https://github.com/lynkeib/WebProjects/tree/master/MyBlog/blog)
 2. [Personal Assistance](https://github.com/lynkeib/WeChatProjects) 
 3. [Search Engine](https://github.com/lynkeib/SearchEngine) (Working on it)
-4. [Web Development Projects](https://github.com/lynkeib/WebProjects/tree/master/WebDevelopment/Projects) (Working On it)
+4. [YelpCamp](https://github.com/lynkeib/WebProjects/tree/master/WebDevelopment/Projects/YelpCamp) (Working On it)
 
 ### Team Projects Website
 1. [CHV Analytic ](https://www.chvanalytics.com)
