@@ -1,4 +1,5 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
+<head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158634722-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -7,6 +8,7 @@
 
   gtag('config', 'UA-158634722-1');
 </script>
+</head>
 
 ## About Me
 
