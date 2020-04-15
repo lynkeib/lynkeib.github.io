@@ -28,6 +28,7 @@ Here I list some of the projects I worked on and the projects I am working on.
 4. [Forecasting System](https://github.com/lynkeib/WebProjects/tree/master/Forecasting%20System) 
 5. [Search Engine](https://github.com/lynkeib/SearchEngine) (Working on it)
 6. [Image Gallery](https://github.com/lynkeib/WebProjects/tree/master/WebDevelopment/Projects/Gallery)
+7. [People Management]() (Working on it)
 
 ### Data Projects
 1. [Fraud Detection in the New York Property Dataset](https://github.com/lynkeib/WebProjects/tree/master/NY%20Property) 
