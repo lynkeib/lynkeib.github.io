@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hi there! Welcome! I am Chengyin, a MSBA student studying at USC and will graduate in May 2020. I am really passionate about using my technical skills and my understanding of data to help the business improve its efficiency and profitability. As a big fan of programming as well, I also work on some development projects that can be helpful to the friends around me in my spare time. 
+Hi there! Welcome! I am Chengyin, a MSBA student studying at USC and will be graduating in May 2020. I am really passionate about using my technical skills to help the business improve its efficiency and profitability. As a big fan of programming as well, I also work on some development projects that can be helpful to the friends around me in my spare time. 
 
 ## About This Site
 
@@ -28,7 +28,7 @@ Here I list some of the projects I worked on and the projects I am working on.
 4. [Forecasting System](https://github.com/lynkeib/WebProjects/tree/master/Forecasting%20System) 
 5. [Search Engine](https://github.com/lynkeib/SearchEngine) (Working on it)
 6. [Image Gallery](https://github.com/lynkeib/WebProjects/tree/master/WebDevelopment/Projects/Gallery)
-7. [People Management]() (Working on it)
+7. [People Management](https://github.com/lynkeib/People-Management) (Working on it)
 
 ### Data Projects
 1. [Fraud Detection in the New York Property Dataset](https://github.com/lynkeib/WebProjects/tree/master/NY%20Property) 
