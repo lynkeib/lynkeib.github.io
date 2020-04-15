@@ -27,7 +27,7 @@ Here I list some of the projects I worked on and the projects I am working on.
 3. [Personal Assistance](https://github.com/lynkeib/WeChatProjects)(Django, Python, HTML/CSS, JavaScript)
 4. [Forecasting System](https://github.com/lynkeib/WebProjects/tree/master/Forecasting%20System)(Machine Learning, Time Series, Python)
 5. [Search Engine](https://github.com/lynkeib/SearchEngine) (Working on it)
-6. [Image Gallery](https://github.com/lynkeib/WebProjects/tree/master/WebDevelopment/Projects/Gallery)(HTML/CSS, JavaScript)
+6. [Image Gallery](https://github.com/lynkeib/WebProjects/tree/master/WebDevelopment/Projects/Gallery)(Express, Node.js, HTML/CSS, JavaScript)
 7. [People Management](https://github.com/lynkeib/People-Management)(Entity Framework, C#, HTML/CSS, JavaScript) (Working on it)
 
 ### Data Projects
