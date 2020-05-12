@@ -36,7 +36,7 @@ Here I list some of the projects I worked on and the projects I am working on.
 3. [Electric Loads Prediction Competition (Rank No.1)](https://github.com/lynkeib/WebProjects/tree/master/Time%20Series%20Competition)(Python, Machine Learning)
 4. [A/B Testing for Udacity](https://github.com/lynkeib/WebProjects/tree/master/AB%20Testing%20for%20Udacity%20Course)
 
-### Game Development Project
+### Game Development Projects
 1. [Block Breaker](https://simmer.io/@lynkeytb/block-breaker)(C#, Unity)
 2. [Laser Defender](https://simmer.io/@lynkeytb/laser-defender)(C#, Unity)
 
