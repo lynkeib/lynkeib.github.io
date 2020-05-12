@@ -37,8 +37,8 @@ Here I list some of the projects I worked on and the projects I am working on.
 4. [A/B Testing for Udacity](https://github.com/lynkeib/WebProjects/tree/master/AB%20Testing%20for%20Udacity%20Course)
 
 ### Game Development Project
-1. [Block Breaker](https://simmer.io/@lynkeytb/block-breaker)
-2. [Laser Defender](https://simmer.io/@lynkeytb/laser-defender)
+1. [Block Breaker](https://simmer.io/@lynkeytb/block-breaker)(C#, Unity)
+2. [Laser Defender](https://simmer.io/@lynkeytb/laser-defender)(C#, Unity)
 
 ### Team Projects Website
 1. [CHV Analytic ](https://www.chvanalytics.com)
