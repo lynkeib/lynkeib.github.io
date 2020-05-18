@@ -1,5 +1,4 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
-@import "";
 <head>
 <meta property='og:image' content='https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80'/>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158634722-1"></script>
