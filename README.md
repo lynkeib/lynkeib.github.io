@@ -29,6 +29,7 @@ Here I list some of the projects I worked on and the projects I am working on.
 5. [Search Engine](https://github.com/lynkeib/SearchEngine) (Working on it)
 6. [Image Gallery](https://github.com/lynkeib/WebProjects/tree/master/WebDevelopment/Projects/Gallery)(Express, Node.js, HTML/CSS, JavaScript)
 7. [People Management](https://github.com/lynkeib/People-Management)(Entity Framework, C#, HTML/CSS, JavaScript)
+8. [Burger Builder](https://github.com/lynkeib/WebProjects/tree/master/React/projects/burger-basics) (React, HTML/CSS, JaveScript)
 
 ### Data Projects
 1. [Fraud Detection in the New York Property Dataset](https://github.com/lynkeib/WebProjects/tree/master/NY%20Property)(Python, Machine Learning)
