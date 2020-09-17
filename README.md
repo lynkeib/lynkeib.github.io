@@ -1,14 +1,6 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <head>
 <meta property='og:image' content='https://drive.google.com/file/d/1XuMcPQzmCyPDbRyV5QWW71odi8knzobc/view?usp=sharing'/>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158634722-1"></script>
-<!-- <meta property='og:image' content='//media.example.com/ 1234567.jpg"/> -->
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-158634722-1');
-</script>
 </head>
 
 ## About Me
