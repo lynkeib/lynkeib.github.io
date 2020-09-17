@@ -1,6 +1,7 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <head>
 <meta property='og:image' content='https://drive.google.com/file/d/1XuMcPQzmCyPDbRyV5QWW71odi8knzobc/view?usp=sharing'/>
+<link rel="image_src" href="https://drive.google.com/file/d/1XuMcPQzmCyPDbRyV5QWW71odi8knzobc/view?usp=sharing">
 </head>
 
 ## About Me
