@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hi there! Welcome! I am Chengyin, a MSBA student studying at USC and will be graduating in May 2020. I am really passionate about using my technical skills to help the business improve its efficiency and profitability. As a big fan of programming as well, I also work on some development projects that can be helpful to the friends around me in my spare time. 
+Hi there! Welcome! I am Chengyin, a MSBA student studying at USC and graduated in May 2020. I am really passionate about using my technical skills to help the business improve its efficiency and profitability. As a big fan of programming as well, I also work on some development projects that can be helpful to the friends around me in my spare time. 
 
 ## About This Site
 
@@ -30,7 +30,7 @@ Here I list some of the projects I worked on and the projects I am working on.
 6. [Image Gallery](https://github.com/lynkeib/WebProjects/tree/master/WebDevelopment/Projects/Gallery)(Express, Node.js, HTML/CSS, JavaScript)
 7. [People Management](https://github.com/lynkeib/People-Management)(Entity Framework, C#, HTML/CSS, JavaScript)
 8. [Burger Builder](https://github.com/lynkeib/WebProjects/tree/master/React/projects/burger-basics) (React, HTML/CSS, JaveScript)
-9. [Job Schedular](https://github.com/lynkeib/WebProjects/tree/master/GO%20Project) (GO, Cron, ETCD, MongoDB) (Working on it)
+9. [Distributed CronTab](https://github.com/lynkeib/WebProjects/tree/master/GO%20Project) (GO, Cron, ETCD, MongoDB) (Working on it)
 
 ### Data Projects
 1. [Fraud Detection in the New York Property Dataset](https://github.com/lynkeib/WebProjects/tree/master/NY%20Property)(Python, Machine Learning)
