@@ -23,7 +23,7 @@ Here I list some of the projects I worked on and the projects I am working on.
 6. [Image Gallery](https://github.com/lynkeib/WebProjects/tree/master/WebDevelopment/Projects/Gallery)(Express, Node.js, HTML/CSS, JavaScript)
 7. [People Management](https://github.com/lynkeib/People-Management)(Entity Framework, C#, HTML/CSS, JavaScript)
 8. [Burger Builder](https://github.com/lynkeib/WebProjects/tree/master/React/projects/burger-basics) (React, HTML/CSS, JaveScript)
-9. [Distributed CronTab](https://github.com/lynkeib/WebProjects/tree/master/GO%20Project/gopath/src/github.com/chengyinliu/crontab) (GO, Cron, ETCD, MongoDB) (Working on it)
+9. [Distributed CronTab](https://github.com/lynkeib/WebProjects/tree/master/GO%20Project/gopath/src/github.com/chengyinliu/crontab) (GO, Cron, ETCD, MongoDB)
 
 ### Data Projects
 1. [Fraud Detection in the New York Property Dataset](https://github.com/lynkeib/WebProjects/tree/master/NY%20Property)(Python, Machine Learning)
