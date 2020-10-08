@@ -36,7 +36,7 @@ Here I list some of the projects I worked on and the projects I am working on.
 2. [Laser Defender](https://simmer.io/@lynkeytb/laser-defender) (C#, Unity)
 
 ### Team Projects Website
-1. [CHV Analytic ](https://www.chvanalytics.com)
+1. [CHV Analytic](https://www.chvanalytics.com)
 
 ## Contact
 
